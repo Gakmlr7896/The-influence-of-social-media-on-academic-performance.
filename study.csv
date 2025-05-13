@@ -1,0 +1,11 @@
+generation,gender,platform,social_hours,during_study_social,study_hours,academic_performance,socialMedia_impact,grades,ability_to_concentrate,educational_use
+Gen Z  (1997 - 2012),Female,TikTok,3 - 5 hours,Sometimes,1 - 2 hours,7,No Impact,B (80% - 89%),Not sure,Sometimes
+Gen Z  (1997 - 2012),Prefer not to say,YouTube,3 - 5 hours,Sometimes,1 - 2 hours,2,No Impact,B (80% - 89%),Not sure,Sometimes
+Gen Z  (1997 - 2012),Male,YouTube,Less than 1 hour.,Never,3 - 5 hours,10,No Impact,A (90% - 100%),No,Rarely
+Gen Z  (1997 - 2012),Male,Discord,3 - 5 hours,Sometimes,3 - 5 hours,7,No Impact,B (80% - 89%),Not sure,Frequently
+Gen Z  (1997 - 2012),Female,TikTok,3 - 5 hours,Always,6 - 8 hours,10,Strongly Positive,A (90% - 100%),No,Sometimes
+Gen Z  (1997 - 2012),Male,YouTube,3 - 5 hours,Sometimes,1 - 2 hours,6,Slightly Negative,A (90% - 100%),Not sure,Sometimes
+Gen Alpha (2013 - 2025),Male,TikTok,More than 5 hours,Sometimes,1 - 2 hours,6,Slightly Positive,B (80% - 89%),No,Frequently
+Gen Alpha (2013 - 2025),Female,TikTok,1 - 2 hours,Sometimes,More than 8 hours,6,Slightly Positive,A (90% - 100%),Yes,Sometimes
+Gen Z  (1997 - 2012),Male,YouTube,3 - 5 hours,Sometimes,Less than 1 hour,6,Slightly Negative,D or below (less than 70%),Not sure,Frequently
+Gen Z  (1997 - 2012),Male,YouTube,3 - 5 hours,Rarely,Less than 1 hour,6,Slightly Negative,C (70% - 79%),Not sure,Never
